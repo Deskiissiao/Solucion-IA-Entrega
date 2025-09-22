@@ -1,0 +1,11 @@
+langchain>=0.1.0
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+openai>=0.27.0
+pypdf2
+python-dotenv
+pytest
+tqdm
+
+
+
